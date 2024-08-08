@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Site Semântico</title>
+</head>
+<body>
+    <header>
+        <h1>Meu Site</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h2>Bem-vindo!</h2>
+            <p>Este é um exemplo de site utilizando elementos semânticos. O HTML semântico torna o código mais organizado e compreensível para máquinas e pessoas.</p>
+            <img src="minha_imagem.jpg" alt="Descrição da minha imagem">
+        </article>
+        <aside>
+            <h3>Conteúdo lateral</h3>
+            <p>Aqui você pode adicionar conteúdo extra, como widgets ou anúncios.</p>
+        </aside>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Meu Site</p>
+    </footer>
+</body>
+</html>
